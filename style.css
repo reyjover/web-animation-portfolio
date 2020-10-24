@@ -33,6 +33,7 @@ font-family: 'Staatliches', cursive;
     padding: 16px;
     font-size: 16px;
     border: none;
+    font-family: 'Staatliches', cursive;
   }
   
   /* The container <div> - needed to position the dropdown content */
@@ -50,6 +51,7 @@ font-family: 'Staatliches', cursive;
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    font-family: 'Staatliches', cursive;
   }
   
   /* Links inside the dropdown */
@@ -58,6 +60,7 @@ font-family: 'Staatliches', cursive;
     padding: 12px 16px;
     text-decoration: none;
     display: block;
+    font-family: 'Staatliches', cursive;
   }
   
   /* Change color of dropdown links on hover */
