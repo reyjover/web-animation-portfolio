@@ -53,9 +53,6 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
                           case 'LT5.1':
                             require_once 'SVG/LT5.1.php';
                             break;
-                          case 'home':
-                              require_once 'index.php';
-                              break;
                         default:
                             require_once 'index.php';
                         }
