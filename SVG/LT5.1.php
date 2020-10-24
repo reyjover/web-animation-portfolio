@@ -12,8 +12,8 @@
 </style>
     </head>
         <body> 
-            <h4> SANNY REY JOVER | BSIT3A </h4>
-            <h4> SVG Exercises - 7 Items  </h4>
+            <h2> SANNY REY JOVER | BSIT3A </h2>
+            <h3> SVG Exercises - 7 Items  </h3>
             <div class="container"> 
                 <svg width="200px" height="300px" style="border:5px solid rgb(240, 211, 84); background-color: #161616;" >
             
