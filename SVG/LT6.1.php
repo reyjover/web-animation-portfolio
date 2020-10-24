@@ -52,6 +52,6 @@
                         </text>
 
                     </svg>
-                    <h4> <a href="https://github.com/reyjover/web-animation-portfolio/blob/main/SVG/LT6.1.php"> Github Link </a> </h4>
+                    <h4> <a href="https://github.com/reyjover/web-animation-portfolio/blob/main/SVG/LT6.1.php" target="blank"> Github Link </a> </h4>
             </body>
 </html>
