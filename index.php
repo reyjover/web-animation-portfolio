@@ -4,7 +4,7 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
 <html> 
     <head> 
         <title> JOVER | Portfolio</title>
-        <link rel="stylesheet" type="text/css" href="style.css">
+        <link rel="stylesheet" type="text/css" href="style.css" href="https://fonts.googleapis.com/css2?family=Staatliches&display=swap" rel="stylesheet">
     </head>
             <body>
 
