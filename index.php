@@ -10,7 +10,7 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
 
                 <div class="wrapper">
                     <br/> 
-                    <h3> Sanny Rey Jover | BSIT3A </h3>
+                    <h2> Sanny Rey Jover | BSIT3A </h2>
                     <br/> 
                                 <div class="header">
 
