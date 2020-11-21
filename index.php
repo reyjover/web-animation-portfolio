@@ -26,7 +26,7 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
                                         <a href="index.php?nav=LT5.1">Learning Task 5.1</a>
                                         <a href="index.php?nav=LT6.1">Learning Task 6.1</a>
                                         <a href="index.php?nav=LT6.2">Learning Task 6.2</a>
-                                        <a href="floom/index.php" target="blank">Floom | LE</a>
+                                        <a href="FLOOM/index.php" target="blank">Floom | LE</a>
                                     </div>
                                     </div>
 
