@@ -26,6 +26,7 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
                                         <a href="index.php?nav=LT5.1">Learning Task 5.1</a>
                                         <a href="index.php?nav=LT6.1">Learning Task 6.1</a>
                                         <a href="index.php?nav=LT6.2">Learning Task 6.2</a>
+                                        <a href="index.php?nav=floom">Floom | LE</a>
                                     </div>
                                     </div>
 
@@ -52,6 +53,9 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
                             break;
                           case 'LT5.1':
                             require_once 'SVG/LT5.1.php';
+                            break;
+                          case 'floom':
+                            require_once 'FLOOM/index.php';
                             break;
                         default:
                             require_once 'index.php';
