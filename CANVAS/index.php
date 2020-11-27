@@ -3,7 +3,7 @@
         <title> HTML5 Canvas </title>
     </head>
 
-        <body style="text-align:center;">
+        <body>
             <canvas id="mountain" width="200" height="200"> </canvas>
             <canvas id="mountain2" width="200" height="200"> </canvas>
             <canvas id="firewatchshield" width="200" height="200"> </canvas>
@@ -13,8 +13,10 @@
             <canvas id="compass" width="200" height="200"> </canvas>
             <canvas id="campfire" width="200" height="200"> </canvas>
             <canvas id="walkie-talkie" width="200" height="200"> </canvas>
+            <br>
+             <a href="https://github.com/reyjover/web-animation-portfolio/tree/main/CANVAS" target="blank"> Github Link </a>
         </body>
-    <a href="https://github.com/reyjover/web-animation-portfolio/tree/main/CANVAS" target="blank"> Github Link </a>
+   
 
 </html>
 
