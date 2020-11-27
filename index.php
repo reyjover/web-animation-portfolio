@@ -29,6 +29,11 @@ $nav = (isset($_GET['nav']) && $_GET['nav'] != '') ? $_GET['nav']: '';
                                         <a href="SVG/FLOOM/index.php" target="blank">Floom | LE</a>
                                     </div>
                                     </div>
+                                    
+                                    <div class="dropdown"><button class="dropbtn">JavaScript</button><div class="dropdown-content">
+                                        <a href="CANVAS/index.php" target="blank">HTML 5 CANVAS DRAWINGS</a>
+                                    </div>
+                                    </div>
 
                                     
                                 </div>
