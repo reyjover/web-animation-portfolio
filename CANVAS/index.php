@@ -14,7 +14,7 @@
             <canvas id="campfire" width="200" height="200"> </canvas>
             <canvas id="walkie-talkie" width="200" height="200"> </canvas>
         </body>
-    <a href="https://github.com/reyjover/web-animation-portfolio/tree/main/CANVAS"> Github Link </a>
+    <a href="https://github.com/reyjover/web-animation-portfolio/tree/main/CANVAS" target="blank"> Github Link </a>
 
 </html>
 
