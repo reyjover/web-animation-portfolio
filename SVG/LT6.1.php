@@ -2,9 +2,10 @@
     <head> 
         <title> SVG Text | Joker's Smile </title>
     </head>
-            <h2> Joker's Smile with his Quotes</h2>
+           
             <body> 
-                  
+                  <div class="modulecontent"> 
+                  <h2> Joker's Smile with his Quotes</h2>
                     <svg width="900px" height="780px" style="background-color:black";> 
                         <path id="innertop" fill="none"  d="M 120 270 Q 440 500 840 235"/>
                         <path id="innerbottom" fill="none"  d="M 100 260 Q 440 640 800 260 "/>
@@ -53,5 +54,6 @@
 
                     </svg>
                     <h2> <a href="https://github.com/reyjover/web-animation-portfolio/blob/main/SVG/LT6.1.php" target="blank"> Github Link </a> </h2>
+</div> 
             </body>
 </html>

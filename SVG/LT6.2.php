@@ -4,8 +4,11 @@
             SVG Animation
         </title>
     </head>
-    <h2> Rainbow Bars Transition</h2>
+
             <body> 
+                
+                <div class="modulecontent"> 
+                <h2> Rainbow Bars Transition</h2>
                 <svg width="300px" height="300px" style="background-color:#646464;"> 
                     <rect x="10" y="10" width="40px" height="10px" style="fill:red" >
                         <animate
@@ -70,7 +73,7 @@
                         /> 
                     </rect>
                 </svg>
-                
+</div>
             </body>
 
 </html> 

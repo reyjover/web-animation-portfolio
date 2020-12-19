@@ -3,7 +3,6 @@
         <title> SVG Exercises </title>
         <style> 
     .container{
-    margin-top: 50px;
     padding: 30px;
     display: inline-block;
     width: fit-content;
@@ -12,8 +11,8 @@
 </style>
     </head>
         <body> 
-            <h2> SANNY REY JOVER | BSIT3A </h2>
-            <h3> SVG Exercises - 7 Items  </h3>
+        <div class="modulecontent"> 
+            <h2> SANNY REY JOVER | BSIT3A | SVG Exercises - 7 Items </h2>
             <div class="container"> 
                 <svg width="200px" height="300px" style="border:5px solid rgb(240, 211, 84); background-color: #161616;" >
             
@@ -310,7 +309,6 @@
                 <h4> 4. Ellipse and Polyline</h4>
             </div>
 
-            <br/>
             <div class="container">
                 <svg width="200px" height="300px" style="border:5px solid rgb(240, 211, 84); background-color: #161616;" >
                     <g>
@@ -515,6 +513,6 @@
                 <h4> 7. Line, Circle, Rectangle, Polyline, Polygon, and Ellipse</h4>
             </div>
 
-            
+</div>
         </body> 
 </html>
